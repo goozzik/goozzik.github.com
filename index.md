@@ -11,8 +11,6 @@ photo_dsc: Jakub Gorzelak (goozzik)
 
 I am new web developer using technologies like Ruby language and Rails framework.
 
-
-
 <hr>
 
 [GitHub](http://github.com/goozzik),
