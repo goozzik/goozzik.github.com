@@ -1,20 +1,20 @@
 ---
-title: Marcin Nowicki aka Pr0d1r2 - Ruby on Rails BDD Agile developer and Team Leader using GTD and minimalistic approach
+title: Jakub Gorzelak (goozzik) - Ruby on Rails developer
 layout: default
-photo_src: http://gravatar.com/avatar/6079eb9d95034da7c27d3ced3cf6591f.png?r=PG
-photo_dsc: Marcin Nowicki aka Pr0d1r2
+photo_src: http://www.gravatar.com/avatar/bbc1c67b4914c39deb57e16bc67c3780.png
+photo_dsc: Jakub Gorzelak (goozzik)
 ---
 
 # Hello :)
 
-## My name is Marcin Nowicki (aka Pr0d1r2).
+## My name is Jakub Gorzelak (goozzik).
 
-I am Ruby on Rails developer and Team Leader using GTD and minimalistic approach.
+I am new web developer using technologies like Ruby language and Rails framework.
 
-I use BDD and many other Agile methodologies as my everyday routine for development.
+
 
 <hr>
 
-[GitHub](http://github.com/Pr0d1r2),
-[Twitter](http://twitter.com/Pr0d1r2),
-[E-Mail](mailto:pr0d1r2@gmail.com)
+[GitHub](http://github.com/goozzik),
+[Blog](http://http://goozzik.tumblr.com),
+[E-Mail](mailto:jakubgorzelak@gmail.com)
