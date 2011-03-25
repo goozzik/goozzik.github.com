@@ -5,3 +5,4 @@ _site/CNAME
 _site/Gemfile
 _site/README
 _site/config.ru
+*.swp
