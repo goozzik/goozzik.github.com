@@ -9,7 +9,7 @@ photo_dsc: Jakub Gorzelak (goozzik)
 
 ## My name is Jakub Gorzelak (goozzik).
 
-I am web developer using technologies like Ruby language and Rails framework. I make web application for mobile devices and desktop.
+I am web developer using technologies like Ruby language and Rails framework. I make web applications for mobile devices and desktop.
 
 <hr>
 
