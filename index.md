@@ -15,4 +15,5 @@ I am web developer using technologies like Ruby language and Rails framework. I 
 
 [GitHub](http://github.com/goozzik),
 [Blog](http://goozzik.tumblr.com),
-[E-Mail](mailto:jakubgorzelak@gmail.com)
+[E-Mail](mailto:jakubgorzelak@gmail.com),
+[involved](/involved.html)
