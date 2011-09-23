@@ -11,9 +11,9 @@ photo_dsc: Jakub Gorzelak (goozzik)
 
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
 
-Startup. Major developer.
+<img src='rozklad_czest_pl.png' style='border: 1px solid gray; border-radius: 2px;'>
 
-Service for searching public transport schedules.
+Startup. Major developer. Service for searching public transport schedules.
 
 <hr>
 
