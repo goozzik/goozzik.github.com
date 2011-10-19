@@ -7,8 +7,14 @@
   </head>
   <body>
     <div class="wrap">
-      <div id="photo">
-        <img src="{{ page.photo_src }}" alt="{{ page.photo_dsc }}" title="{{ page.photo_dsc}}" /> 
+      <div id="navigation">
+        <img src="{{ page.photo_src }}" alt="{{ page.photo_dsc }}" title="{{ page.photo_dsc}}" />
+        <ul style="margin-left:15px;">
+          <li><a href='http://github.com/goozzik'>GitHub</a></li>
+          <li><a href='http://goozzik.tumblr.com'>Blog</a></li>
+          <li><a href='mailto:jakubgorzelak@gmail.com'>E-Mail</a></li>
+          <li><a href='public/CV-Jakub_Gorzelak.pdf'>CV</a></li>
+        </ul>
       </div>
       <div id="content">
         {{ content }}
