@@ -1,7 +1,11 @@
 * { margin:0; padding:0; }
 body {
   font: 72.5%/1.7em "Lucida Grande", "Lucida Sans Unicode", verdana, geneva, sans-serif;
-  color:#336699; background-color: #99CCFF;
+  color:#336699;
+  background: #99CCFF; /* for non-css3 browsers */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#99CCFF'); /* for IE */
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#99CCFF)); /* for webkit browsers */
+  background: -moz-linear-gradient(top,  #FFFFFF,  #99CCFF); /* for firefox 3.6+ */
 }
 
 /* general */
