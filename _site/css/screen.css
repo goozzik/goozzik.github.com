@@ -1,5 +1,8 @@
 * { margin:0; padding:0; }
-body { font: 72.5%/1.7em "Lucida Grande", "Lucida Sans Unicode", verdana, geneva, sans-serif; color:#555; }
+body {
+  font: 72.5%/1.7em "Lucida Grande", "Lucida Sans Unicode", verdana, geneva, sans-serif;
+  color:#336699; background-color: #99CCFF;
+}
 
 /* general */
 a { color:#007898; background: inherit; border-bottom:1px dotted #ccc; text-decoration:none; }
@@ -7,10 +10,28 @@ a:hover { border-bottom:1px solid #ccc; color: #808080; background: inherit; }
 a:focus { outline: 0; }
 img { border: 0; text-decoration: none; }
 
+/* navigation */
+#navigation {
+  float: left;
+  width: 80px;
+  margin: 0 0 20px 0;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: white;
+}
+li { list-style: none; }
+
 /* content */
-h1 { margin: 0 0 10px; letter-spacing: 1px; font-size: 2em; }
-h2 { margin: 0 0 10px; letter-spacing: 1px; font-size: 1.5em; }
-hr { margin: 5px 100px 5px 5px; }
+h1 { margin: 0 0 10px; letter-spacing: 3px; font-size: 2em; text-align: center; }
+h2 { margin: 0 0 10px; letter-spacing: 1px; font-size: 1.5em;}
+hr { margin: 10px 5px 10px 5px; width: 507px;}
 .wrap { padding:20px 10px 10px 10px; width:720px; margin:0 auto; }
-#navigation { float: left; width: 80px; margin: 0 0 20px 0; }
-#content {	width:620px; float:right; margin: 0 0 20px 0; }
+#content {
+  width:517px;
+  float:left;
+  margin:0 0 20px 0;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: white;
+  border-radius: 5px;
+}
