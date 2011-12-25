@@ -5,9 +5,9 @@ photo_src: http://www.gravatar.com/avatar/bbc1c67b4914c39deb57e16bc67c3780.png
 photo_dsc: Jakub Gorzelak (goozzik)
 ---
 
-# HELLO!
+# Hello.
 
-## My name is Jakub Gorzelak (aka goozzik).
+## My name is Jakub Gorzelak, know also as goozzik.
 
 I am web developer using technologies like Ruby language and Rails framework.
 
@@ -15,13 +15,15 @@ I make web applications for mobile devices and desktop.
 
 <hr>
 
-# PORTFOLIO
+# Involved
 
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
 
 Startup. Major developer. Service for searching public transport schedules.
 
 <img src='public/rozklad-entire.png' style='border: 1px solid gray; border-radius: 5px; margin-top: 1em;'>
+
+<hr>
 
 ## [prostydns.pl](http://prostydns.pl)
 
