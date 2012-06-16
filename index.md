@@ -9,26 +9,41 @@ photo_dsc: Jakub Gorzelak (goozzik)
 
 ## My name is Jakub Gorzelak, know also as goozzik.
 
-I am web developer using technologies like Ruby language and Rails framework.
+I am [Ruby on Rails](http://rubyonrails.org) web developer. 
 
 I make web applications for mobile devices and desktop.
 
-<hr>
+<br/>
 
-# Involved
+## Involved in
+
+<hr>
 
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
 
-Startup. Major developer. Service for searching public transport schedules.
-
-<img src='public/rozklad-entire.png' style='border: 1px solid gray; border-radius: 5px; margin-top: 1em;'>
+<ul>
+  <li>Startup.</li>
+  <li>Major developer.</li>
+  <li>Bus schedule searcher with geolocation for mobile devices and desktops.</li>
+  <li>Login via Facebook.</li>
+</ul>
 
 <hr>
 
 ## [prostydns.pl](http://prostydns.pl)
 
-Easy domain registration and cofiguration. Site is still under development.
+<ul>
+  <li>Easy domain registration and configuration.</li>
+  <li>Front-end and back-end developer.</li>
+</ul>
 
-I am person who covers working between front-end and back-end.
+<hr>
 
-<img src='public/prostydns-entire.png' style='border: 1px solid gray; border-radius: 5px; margin-top: 1em;'>
+## [dziennikonline.tzn.edu.pl](http://dziennik-online.herokuapp.com)
+
+<ul>
+  <li>System for attendance and learning progress control.</li> 
+  <li>Developing with <a href="http://bezjedynek.pl/">Arkadiusz Dudek</a>.</li>
+  <li>Developing for our school <a hreh="tzn.edu.pl">Techniczne Zakłady Naukowe</a>. The idea came from Karolina Olczak and Edyta Denis</li>
+  <li>Site is still under development. Will launch in September</li>
+</ul>
