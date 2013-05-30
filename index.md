@@ -19,31 +19,32 @@ I make web applications for mobile devices and desktop.
 
 <hr>
 
+## [prostydns.pl](http://prostydns.pl)
+
+<ul>
+  <li>Easy domain registration and configuration.</li>
+  <li>Front-end and back-end developer.</li>
+  <li>Use external API</li>
+</ul>
+
+<hr>
+
+## [dziennikonline.tzn.edu.pl](http://212.87.238.22:3000)
+
+<ul>
+  <li>Developed system for attendance and learning progress control.</li>
+  <li>Developed for my school <a hreh="tzn.edu.pl">Techniczne Zakłady Naukowe</a>. </br>The idea came from Karolina Olczak and Edyta Denis</li>
+  <li>Project was awarded with <a href="public/Jakub_Gorzelak_list_referencyjny_2013.04.26.pdf">reference letter</a> from headmaster.</li>
+</ul>
+
+<hr>
+
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
 
 <ul>
   <li>Startup.</li>
   <li>Major developer.</li>
   <li>Bus schedule searcher with geolocation for mobile devices and desktops.</li>
+  <li>Data extraction from mpk.czest.pl HTML files via Nokogiri gem</li>
   <li>Login via Facebook.</li>
-</ul>
-
-<hr>
-
-## [prostydns.pl](http://prostydns.pl)
-
-<ul>
-  <li>Easy domain registration and configuration.</li>
-  <li>Front-end and back-end developer.</li>
-</ul>
-
-<hr>
-
-## [dziennikonline.tzn.edu.pl](http://dziennik-online.herokuapp.com)
-
-<ul>
-  <li>System for attendance and learning progress control.</li> 
-  <li>Developing with <a href="http://bezjedynek.pl/">Arkadiusz Dudek</a>.</li>
-  <li>Developing for our school <a hreh="tzn.edu.pl">Techniczne Zakłady Naukowe</a>. The idea came from Karolina Olczak and Edyta Denis</li>
-  <li>Site is still under development. Will launch in September</li>
 </ul>
