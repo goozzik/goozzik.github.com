@@ -1,1 +1,1 @@
-rvm ruby-1.8.7@jakubgorzelak.com
+rvm use 1.9.3@jakubgorzelak.com
