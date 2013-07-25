@@ -34,7 +34,7 @@ I make web applications for mobile devices and desktop.
 <ul>
   <li>Developed system for attendance and learning progress control.</li>
   <li>Developed for my school <a hreh="tzn.edu.pl">Techniczne Zakłady Naukowe</a>. </br>The idea came from Karolina Olczak and Edyta Denis</li>
-  <li>Project was awarded with <a href="public/Jakub_Gorzelak_list_referencyjny_2013.04.26.pdf">reference letter</a> from headmaster.</li>
+  <li>Project was awarded with <a href="https://docs.google.com/file/d/0B8tGk-A5FiCcRVFTSFJXMDdScFk/edit?usp=sharing">reference letter</a> from headmaster.</li>
 </ul>
 
 <hr>
