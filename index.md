@@ -5,13 +5,11 @@ photo_src: http://www.gravatar.com/avatar/bbc1c67b4914c39deb57e16bc67c3780.png
 photo_dsc: Jakub Gorzelak (goozzik)
 ---
 
-# Hello.
+# Hello!
 
-## My name is Jakub Gorzelak, know also as goozzik.
+## My name is Jakub Gorzelak, known also as goozzik.
 
-I am [Ruby on Rails](http://rubyonrails.org) web developer. 
-
-I make web applications for mobile devices and desktop.
+I am web developer based in Poland. I work mainly on [Ruby on Rails](http://rubyonrails.org) applications.
 
 <br/>
 
